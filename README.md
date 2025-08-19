@@ -21,7 +21,7 @@ It uses an **LSTM neural network built in PyTorch** and is deployed with an **in
 
 ## 📽️ UI Preview  
 
-| ![](assets/ui1.jpg) | ![](assets/ui2.jpg) |
+| ![](assetes/ui1.jpg) | ![](assetes/ui2.jpg) |
 |----------------------|----------------------|
 
 
