@@ -15,7 +15,7 @@ It uses an **LSTM neural network built in PyTorch** and is deployed with an **in
 ---
 
 ## 🔗 Live Demo  
-👉 [Streamlit App]([https://your-deployment-link.streamlit.app/](https://imdb-movie-sentiment-analysis-z2adcjmjdeq2ajma9uazon.streamlit.app))  
+👉 [Streamlit App](https://imdb-movie-sentiment-analysis-z2adcjmjdeq2ajma9uazon.streamlit.app) 
 
 ---
 
