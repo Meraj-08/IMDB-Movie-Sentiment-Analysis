@@ -1,8 +1,5 @@
 # 🎬 IMDB Movie Review Sentiment Analyzer  
-[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)  
-[![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch-red?logo=pytorch)](https://pytorch.org/)  
-[![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-brightgreen?logo=streamlit)](https://streamlit.io/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)  [![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch-red?logo=pytorch)](https://pytorch.org/)  [![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-brightgreen?logo=streamlit)](https://streamlit.io/)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 ---
 
@@ -24,7 +21,7 @@ It uses an **LSTM neural network built in PyTorch** and is deployed with an **in
 
 ## 📽️ UI Preview  
 
-| ![](assets/ui1.png) | ![](assets/ui2.png) |
+| ![](assetes/ui1.jpg) | ![](assets/ui2.jpg) |
 
 ---
 
